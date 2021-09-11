@@ -1,10 +1,10 @@
 # pacmen    <img src="PacMan1.png" width=100px>
 
-**Purpose:** A factory for making Pacmen. Pacmen are created with the click of a button and move around the screen at their own pace. Uses array methods, collision detetction and DOM manipulation techniques.
+**Description:** A factory for making Pacmen. Pacmen are created with the click of a button and move around the screen at their own pace. Uses array methods, collision detetction and DOM manipulation techniques.
 
-**Installation:** download the files and drag and drop the index.html file on to a blank browser page to start the Pacmen factory.
+**How to Run:** download the files and drag and drop the index.html file on to a blank browser page to start the Pacmen factory.
 
-**Usage:** Pac-men are created with random position and velocity. Collision detection is implemented to change these settings. 
+**Usage:** Pacmen are created with random position and velocity. Collision detection is implemented to change these settings. 
 
 **Support:** contact via email for support questions: <a href="mailto:rkotzin@gmail.com">contact</a>
 
