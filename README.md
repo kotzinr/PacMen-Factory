@@ -1,9 +1,9 @@
 # pacmen
-##Factory for making pacmen
+**Factory for making pacmen**
 
 **Purpose:** Pac-men are created with the click of a button and move around the screen at their own pace. Uses array methods and DOM manipulation techniques.
 
-**Installation:** Click the link https://shrewd-puma-ht1v-8080.nt.run/ to see Pac-Man chomp from right to left on repeat
+**Installation:** download the files and drag and drop the index.html file on to a blank browser page to start the Pacmen factory.
 
 **Usage:** Pac-men are created with random position and velocity. Collision detection is implemented to change these settings. 
 
