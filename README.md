@@ -2,7 +2,15 @@
 
 **Description:** A factory for making Pacmen. Pacmen are created with the click of a button and move around the screen at their own pace. Uses array methods, collision detetction and DOM manipulation techniques.
 
-**How to Run:** download the files and drag and drop the index.html file on to a blank browser page to start the Pacmen factory.
+**How to Run:** <br>
+Clone this project: <br>
+$ git clone https://github.com/kotzinr/PacMen-Factory <br>
+
+Access: <br>
+$ cd PacMen-Factory <br>
+
+Run the project: <br>
+$ open index.html <br>
 
 **Usage:** Pacmen are created with random position and velocity. Collision detection is implemented to change these settings. 
 
