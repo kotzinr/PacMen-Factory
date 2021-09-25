@@ -1,4 +1,4 @@
-# pacmen    <img src="PacMan1.png" width=100px>
+# pacmen    <img src="/images/PacMan1.png" width=100px>
 
 **Description:** A factory for making Pacmen. Pacmen are created with the click of a button and move around the screen at their own pace. Uses array methods, collision detetction and DOM manipulation techniques.
 
